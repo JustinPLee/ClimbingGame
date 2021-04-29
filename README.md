@@ -1,5 +1,5 @@
 # ClimbingGame
-Infinite climbing game. 
+This game is an infinite climbing game built with Javascript and Phaser 3 and tested in Firefox 88. 
 
 
 
